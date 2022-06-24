@@ -15,6 +15,7 @@ import python from '../assets/python.png';
 import react from '../assets/react.png';
 import redux from '../assets/redux.png';
 import sass from '../assets/sass.png';
+import sanity from '../assets/sanity.png'
 import typescript from '../assets/typescript.png';
 import vue from '../assets/vue.png';
 
@@ -24,6 +25,8 @@ import about03 from '../assets/about03.png';
 import about04 from '../assets/about04.png';
 
 import profile from '../assets/profile.png';
+import mainprofile from '../assets/mainprofile.jpg'
+import test from '../assets/test.png'
 import circle from '../assets/circle.svg';
 import logo from '../assets/logo.png';
 
@@ -60,6 +63,8 @@ export default {
   about03,
   about04,
   profile,
+  mainprofile,
+  test,
   circle,
   logo,
   adidas,
@@ -69,4 +74,5 @@ export default {
   nb,
   skype,
   spotify,
+  sanity,
 };
