@@ -30,6 +30,8 @@ import test from '../assets/test.png'
 import circle from '../assets/circle.svg';
 import logo from '../assets/logo.png';
 
+import blogtalk from '../assets/blogtalk.png'
+
 import adidas from '../assets/adidas.png';
 import amazon from '../assets/amazon.png';
 import asus from '../assets/asus.png';
@@ -75,4 +77,5 @@ export default {
   skype,
   spotify,
   sanity,
+  blogtalk,
 };
