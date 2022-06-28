@@ -40,7 +40,7 @@ const Work = () => {
 
   return (
     <>
-      <h2 className="head-text">Lorem, ipsum dolor. <span> Lorem, ipsum. </span> <br /> Lorem. <span> Lorem ipsum dolor sit. </span></h2>
+      <h2 className="head-text"><span> minimal </span> designs <br /> for <span> dynamic </span> systems.</h2>
 
       <div className="app__work-filter">
         {['ui/ux', 'web app', 'mobile app', 'react js', 'all'].map((item, index) => (
