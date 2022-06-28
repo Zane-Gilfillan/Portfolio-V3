@@ -1,4 +1,5 @@
-import React from 'react'
+import React, { useState } from 'react'
+import { images } from '../../constants'
 import './Footer.scss'
 
 const Footer = () => {
